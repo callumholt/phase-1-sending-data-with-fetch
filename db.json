@@ -173,6 +173,11 @@
       "dogName": "Byron",
       "dogBreed": "poodle",
       "id": 38
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "poodle",
+      "id": 39
     }
   ],
   "cats": [
@@ -322,6 +327,11 @@
       "name": "callum",
       "email": "callumpholt@gmail.com",
       "id": 27
+    },
+    {
+      "name": "callum",
+      "email": "callumpholt@gmail.com",
+      "id": 28
     }
   ],
   "robots": [
